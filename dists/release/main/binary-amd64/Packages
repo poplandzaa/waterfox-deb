@@ -26,15 +26,15 @@ Section: web
 Installed-Size: 11
 Maintainer: hawkeye116477 <hawkeye116477@gmail.com>
 Architecture: amd64
-Version: 5.0.1.6
-Depends: libc6, libkf5configcore5, libkf5coreaddons5, libkf5i18n5, libkf5kiocore5, libkf5kiowidgets5, libkf5notifications5, libkf5service-bin, libkf5service5, libkf5windowsystem5, libqt5core5a, libqt5gui5 | libqt5gui5-gles, libqt5widgets5, libstdc++6, cmake, extra-cmake-modules, libkf5kio-dev, libkf5i18n-dev, libkf5notifications-dev, libkf5windowsystem-dev, python
+Version: 5.0.1.6.1
+Depends: libc6, libkf5configcore5, libkf5coreaddons5, libkf5i18n5, libkf5kiocore5, libkf5kiowidgets5, libkf5notifications5, libkf5service-bin, libkf5service5, libkf5windowsystem5, libqt5core5a, libqt5gui5 | libqt5gui5-gles, libqt5widgets5, libstdc++6, cmake, extra-cmake-modules, libkf5kio-dev, libkf5i18n-dev, libkf5notifications-dev, libkf5windowsystem-dev, python, g++
 Pre-Depends: apt-transport-https
-Filename: pool/main/k/kwaterfoxhelper/kwaterfoxhelper_5.0.1.6_amd64.deb
-Size: 2528
-MD5sum: 20fb5349083b0f87c3dbd79d9a314032
-SHA1: 6b4062dfec6654bd73394f80f50b91c10b5f032f
-SHA256: 6491fd752a1619292963c66f7e63b06810d0f8d858bc110e0edad20cc2638ff2
-SHA512: 98e945441746e13c838ba86f69b038bf1bca0ca4085fdb7e93217e30b11c5d4f4e9c84e8c2565fc78349429e7de100fbe1e66100cb01460ab2d874ae4568f41d
+Filename: pool/main/k/kwaterfoxhelper/kwaterfoxhelper_5.0.1.6.1_amd64.deb
+Size: 2538
+MD5sum: 2c0f453af1443a6fa72adebd164f55b3
+SHA1: d4835c7394d3d9c3017bfb03d2bbed3006baba04
+SHA256: 82f73a028459c720dbd2627d65e2264adb994648f070e309d8563dad23cb0437
+SHA512: d6c1b7e2334f7e058fbb2ab1e6f4880aa841cbe19779eaab2fc7aace4d6bcfc32ba1c3f3c93208cd89fa5c980309351b616a67040e21fe43d75cf579a6881692
 Description: Integration of Waterfox with KDE Plasma
   This is a helper application that allows Waterfox to use
   KDE file dialogs, file associations, protocol handlers and
